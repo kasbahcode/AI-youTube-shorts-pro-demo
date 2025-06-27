@@ -281,7 +281,7 @@ For licensing inquiries, technical questions, or implementation consultation:
 
 **📧 Professional Inquiries**: contact@kasbahcode.com  
 **💬 Direct Communication**: @mouadbenrahou  
-**🔗 Development Portfolio**: https://github.com/kasbahcode/AI-youTube-shorts-pro
+**🔗 Development Portfolio**: https://github.com/kasbahcode/AI-youTube-shorts-pro-demo
 
 ---
 
